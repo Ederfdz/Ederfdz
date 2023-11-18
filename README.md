@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eder (pronounced like "better" without the "b"
 - 👀 I’m interested in QA, especifically Automation Testing!
 - 🌱 I’m currently learning Cypress
-- 💞️ I’m looking to collaborate on open source QA projects
 - 📫 How to reach me: ederfernandez8193@gmail.com
 
 <!---
