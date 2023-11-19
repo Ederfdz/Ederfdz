@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 Hi, I’m Eder 
+## 🧑🏻‍💻 Hi, I’m Eder <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/"/>
  _( It's pronounced like "better" without the "b")_
 
 My background is in audio engineering. I've had the pleasure of working on Grammy nominated projects with some of my favorite artists, but in 2022 I decided to pursue a career with more room for growth.
@@ -7,11 +7,21 @@ As an audio engineer I was the person in the background making sure everything i
 
 I realized these skills would be extremely transferrable in the QA field 🔎 🐞
   
-🌱 I’m currently learning  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+- I’m currently learning Cypress <img width="30" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/>
 
-📫 Feel free to connect with me! <a href="https://www.linkedin.com/in/eder-fernandez93/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/> <a href="https://ederfernandez.carrd.co/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/><a/> <a href="https://twitter.com/EderxFdz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)"/><a/> 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                
+<p align="center">
+  📫 Feel free to connect with me!
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eder-fernandez93/)">
+    <img width="30" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ <a href="https://www.linkedin.com/in/eder-fernandez93/)">
+    <img width="30" src="" />
+  </a>
+</p>
+-------------------------------------------------------------------------------------------------------------------------
 
  **QA TOOLS**
  
